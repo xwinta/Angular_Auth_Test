@@ -1,1 +1,0 @@
-{"version":3,"file":"profile.component.js","sourceRoot":"","sources":["profile.component.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,qBAA0B,eAAe,CAAC,CAAA;AAC1C,uBAAkC,iBAAiB,CAAC,CAAA;AAUpD;IAAA;IAA+B,CAAC;IAPhC;QAAC,gBAAS,CAAC;YACT,QAAQ,EAAE,SAAS;YACnB,UAAU,EAAE,CAAE,0BAAiB,CAAE;YACjC,WAAW,EAAE,2BAA2B;SACzC,CAAC;;wBAAA;IAG6B,uBAAC;AAAD,CAAC,AAAhC,IAAgC;AAAnB,wBAAgB,mBAAG,CAAA"}
